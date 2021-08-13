@@ -49,4 +49,3 @@ The session will focus on identifying rare events in text with positive unlabele
 #### Pre-requisites
 
 basics of statistical learning, linear algebra - matrix factorization, vector space and distance, probability, logistic regression, entropy, monte carlo simulations, NLP basics, fair exposure to coding in R/Python
-![image](https://user-images.githubusercontent.com/71388255/129340016-fa368b13-96c0-472f-a6ea-8a1b1a855d73.png)
