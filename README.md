@@ -43,7 +43,6 @@ The session will focus on identifying rare events in text with positive unlabele
 - Quantifying Degree of Severity 
 - Metric Formation & Stage I Classification
 - Stage II Classification with ERLG
-- Live Exercise
 
 
 #### Pre-requisites
